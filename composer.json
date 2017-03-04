@@ -5,7 +5,8 @@
     "homepage": "https://github.com/DrupalNL/splashawards-project",
     "require": {
         "drupal-composer/drupal-scaffold": "^2.0.0",
-        "drupal/splashawards": "*"
+        "drupal/splashawards": "*",
+        "composer/installers": "^1.0"
     },
     "require-dev": {
         "composer/composer": "^1.3"
